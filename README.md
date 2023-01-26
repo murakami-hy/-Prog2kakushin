@@ -17,7 +17,7 @@
 
 [work3](https://github.com/murakami-hy/Prog2kakushin/blob/main/work3.ipynb)
 
-## 参考資料
+## 参考文献
 - 食べログ　https://tabelog.com/
 
 - ベクターシェルフ　https://vectorshelf.com/
